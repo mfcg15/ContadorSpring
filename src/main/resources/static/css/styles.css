@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+span
+{
+	color: blue;
+}
+
+h1
+{
+	text-align: center;
+}
+
+
+h1, p , .enlaces , .boton
+{
+	padding: 10px;
+}
+
+.enlaces > a
+{
+	margin: 10px 0px 10px 0px; 
+}
+
